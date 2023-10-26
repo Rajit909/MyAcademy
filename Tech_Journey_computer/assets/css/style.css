@@ -135,12 +135,10 @@ h6 {
   font-family: "Poppins", sans-serif;
 }
 
-#header .logo a {
-  color: #5fcf80;
-}
+
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 45px;
 }
 
 /**

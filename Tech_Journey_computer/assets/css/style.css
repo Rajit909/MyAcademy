@@ -750,8 +750,13 @@ section {
   border: 1px solid #eef0ef;
 }
 
+
 .courses .course-content {
   padding: 15px;
+}
+.courses .course-content h4 a:hover {
+  background-color: #47cc3b;
+  font-weight: 500;
 }
 
 .courses .course-content h3 {
@@ -759,21 +764,21 @@ section {
   font-size: 20px;
 }
 
-.courses .course-content h3 a {
-  color: #37423b;
+/* .courses .course-content h3 a {
+  color: #fff;
   transition: 0.3s;
 }
 
 .courses .course-content h3 a:hover {
   color: #5fcf80;
-}
+} */
 
 .courses .course-content p {
   font-size: 14px;
   color: #777777;
 }
 
-.courses .course-content h4 {
+.courses .course-content h4 a{
   font-size: 14px;
   background: #5fcf80;
   padding: 7px 14px;

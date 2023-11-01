@@ -144,6 +144,19 @@ h6 {
 /**
 * Get Startet Button 
 */
+.courses-btn > a{
+  margin: 0 45%;
+  color: #fff;
+  background: #5fcf80;
+  border-radius: 50px;
+  padding: 8px 25px;
+  white-space: nowrap;
+  transition: 0.3s;
+  font-size: 14px;
+  display: inline-block;
+  margin-top: 15px;
+  
+}
 .get-started-btn {
   margin-left: 22px;
   background: #5fcf80;
